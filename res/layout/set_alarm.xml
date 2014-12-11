@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     android:background="@drawable/radial_color" >
+
+      <Button
+          android:id="@+id/start_time"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginLeft="30dp"
+          android:layout_marginTop="94dp"
+          android:text="ঘুমানোর সময়" />
+
+    <TextView
+        android:id="@+id/startView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/start_time"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="37dp"
+        android:text="TextView" />
+
+    <Button
+        android:id="@+id/save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="42dp"
+        android:text="সাবমিট করুন " />
+
+    <Button
+        android:id="@+id/end_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/save"
+        android:layout_alignLeft="@+id/endView"
+        android:layout_marginBottom="80dp"
+        android:text="জেগে  ওঠার সময়" />
+
+    <TextView
+        android:id="@+id/endView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/start_time"
+        android:layout_below="@+id/start_time"
+        android:layout_marginTop="41dp"
+        android:text="TextView" />
+
+</RelativeLayout>

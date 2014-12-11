@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+       android:background="@drawable/radial_background"
+        >
+        
+    
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="15.0dip"
+        android:weightSum="10.0" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="216dp"
+            android:layout_height="50dp"
+            android:layout_weight="1.92"
+            android:text="ঘুমবটিকা"
+            android:textColor="#ffffff"
+            android:textSize="50dp" />
+
+        <LinearLayout
+            android:id="@+id/button_view"
+            android:layout_width="300dp"
+            android:layout_height="0.0px"
+            android:layout_weight="4.0"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingBottom="3.0dip"
+            android:paddingLeft="5.0dip"
+            android:paddingRight="5.0dip" >
+
+            <ImageView
+                android:id="@+id/AboutSleep"
+                android:layout_width="151dp"
+                android:layout_height="118dp"
+                android:layout_weight="0.43"
+                android:clickable="true"
+                android:gravity="center"
+                android:onClick="imageClick"
+                android:paddingLeft="5.0dip"
+                android:paddingRight="5.0dip"
+                android:scaleType="fitXY"
+                android:src="@drawable/sleep"
+                android:tag="food" />
+
+            <ImageView
+                android:id="@+id/Tips"
+                android:layout_width="145dp"
+                android:layout_height="118dp"
+                android:layout_gravity="center"
+                android:clickable="true"
+                android:gravity="center"
+                android:onClick="imageClick"
+                android:paddingLeft="5.0dip"
+                android:paddingRight="5.0dip"
+                android:scaleType="fitXY"
+                android:src="@drawable/tips"
+                android:tag="shopping" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/button_view"
+            android:layout_width="304dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingBottom="0dip"
+            android:paddingLeft="5.0dip"
+            android:paddingRight="5.0dip" >
+
+            <ImageView
+                android:id="@+id/SleepGame"
+                android:layout_width="145dp"
+                android:layout_height="118dp"
+                android:clickable="true"
+                android:gravity="center"
+                android:onClick="imageClick"
+                android:paddingLeft="5.0dip"
+                android:paddingRight="5.0dip"
+                android:scaleType="fitXY"
+                android:src="@drawable/relax"
+                android:tag="food" />
+
+            <ImageView
+                android:id="@+id/SleepAlarm"
+                android:layout_width="145dp"
+                android:layout_height="118dp"
+                android:layout_gravity="center"
+                android:clickable="true"
+                android:gravity="center"
+                android:onClick="imageClick"
+                android:paddingLeft="0dip"
+                android:paddingRight="5.0dip"
+                android:scaleType="fitXY"
+                android:src="@drawable/alarm"
+                android:tag="shopping" />
+        </LinearLayout>
+        
+    </LinearLayout>
+
+   
+
+</FrameLayout>
