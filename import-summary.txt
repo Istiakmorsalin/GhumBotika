@@ -1,0 +1,232 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* README.md
+* app\
+* app\build.gradle
+* app\src\
+* app\src\main\
+* app\src\main\AndroidManifest.xml
+* app\src\main\java\
+* app\src\main\java\com\
+* app\src\main\java\com\example\
+* app\src\main\java\com\example\final_project\
+* app\src\main\java\com\example\final_project\Entertainment.java
+* app\src\main\java\com\example\final_project\ExpandableListAdapter.java
+* app\src\main\java\com\example\final_project\MainActivity.java
+* app\src\main\java\com\example\final_project\Sleep_about.java
+* app\src\main\java\com\example\final_project\Tips.java
+* app\src\main\java\finalproject\
+* app\src\main\java\finalproject\entertainment\
+* app\src\main\java\finalproject\entertainment\MusicService.java
+* app\src\main\java\finalproject\entertainment\Musiclisten.java
+* app\src\main\java\finalproject\entertainment\Readbook.java
+* app\src\main\java\finalproject\entertainment\viewimage.java
+* app\src\main\java\finalproject\soundmixer\
+* app\src\main\java\finalproject\soundmixer\States.java
+* app\src\main\java\finalproject\soundmixer\mixer_mainactivity.java
+* app\src\main\java\finalproject\touchgesture\
+* app\src\main\java\finalproject\touchgesture\ShakeListener.java
+* app\src\main\java\finalproject\touchgesture\ShakeListenerTestActivity.java
+* app\src\main\java\finalproject\touchgesture\Tasbih.java
+* app\src\main\java\finalproject\touchgesture\Touch_flipp.java
+* app\src\main\java\finalproject\touchgesture\dualist.java
+* app\src\main\java\finalproject\touchgesture\regional.java
+* app\src\main\java\ghumbotika\
+* app\src\main\java\ghumbotika\sleepsilent\
+* app\src\main\java\ghumbotika\sleepsilent\AlarmCreateActivity.java
+* app\src\main\java\ghumbotika\sleepsilent\AlarmLoggerReceiver.java
+* app\src\main\java\ghumbotika\sleepsilent\AlarmNotificationReceiver.java
+* app\src\main\java\ghumbotika\sleepsilent\CallerException.java
+* app\src\main\java\ghumbotika\sleepsilent\InputActivity.java
+* app\src\main\java\ghumbotika\sleepsilent\NotificationReceiver.java
+* app\src\main\res\
+* app\src\main\res\drawable-hdpi\
+* app\src\main\res\drawable-hdpi\alarm.png
+* app\src\main\res\drawable-hdpi\entertainment.png
+* app\src\main\res\drawable-hdpi\ic_launcher.png
+* app\src\main\res\drawable-hdpi\radial_background.xml
+* app\src\main\res\drawable-hdpi\radial_color.xml
+* app\src\main\res\drawable-hdpi\relax.png
+* app\src\main\res\drawable-hdpi\sleep.png
+* app\src\main\res\drawable-hdpi\tips.png
+* app\src\main\res\drawable-ldpi\
+* app\src\main\res\drawable-ldpi\ic_launcher.png
+* app\src\main\res\drawable-mdpi\
+* app\src\main\res\drawable-mdpi\ic_launcher.png
+* app\src\main\res\drawable-xxhdpi\
+* app\src\main\res\drawable-xxhdpi\ic_launcher.png
+* app\src\main\res\drawable\
+* app\src\main\res\drawable\back01.png
+* app\src\main\res\drawable\back02.png
+* app\src\main\res\drawable\background.png
+* app\src\main\res\drawable\doc.png
+* app\src\main\res\drawable\folder.png
+* app\src\main\res\drawable\gallery.png
+* app\src\main\res\drawable\icon.png
+* app\src\main\res\drawable\left_arrow.png
+* app\src\main\res\drawable\music.png
+* app\src\main\res\drawable\pdf.png
+* app\src\main\res\drawable\right_arrow.png
+* app\src\main\res\drawable\tips.png
+* app\src\main\res\drawable\zoom_in.png
+* app\src\main\res\drawable\zoom_out.png
+* app\src\main\res\layout\
+* app\src\main\res\layout\activity_main.xml
+* app\src\main\res\layout\activity_main_soundmixer.xml
+* app\src\main\res\layout\alarm_main.xml
+* app\src\main\res\layout\bo.xml
+* app\src\main\res\layout\book.xml
+* app\src\main\res\layout\demo_sleepsilent.xml
+* app\src\main\res\layout\dialog_pagenumber.xml
+* app\src\main\res\layout\entertainment.xml
+* app\src\main\res\layout\first.xml
+* app\src\main\res\layout\image.xml
+* app\src\main\res\layout\list_group.xml
+* app\src\main\res\layout\list_item.xml
+* app\src\main\res\layout\main.xml
+* app\src\main\res\layout\music.xml
+* app\src\main\res\layout\regionactivity.xml
+* app\src\main\res\layout\second.xml
+* app\src\main\res\layout\second_sleepsilent.xml
+* app\src\main\res\layout\set_alarm.xml
+* app\src\main\res\layout\sleepabout.xml
+* app\src\main\res\layout\state_info.xml
+* app\src\main\res\layout\tasbih.xml
+* app\src\main\res\layout\tips.xml
+* app\src\main\res\menu\
+* app\src\main\res\menu\main.xml
+* app\src\main\res\raw\
+* app\src\main\res\raw\airconditioner.ogg
+* app\src\main\res\raw\alarm.ogg
+* app\src\main\res\raw\alarm_rooster.mp3
+* app\src\main\res\raw\aquarium.ogg
+* app\src\main\res\raw\athmospheric.ogg
+* app\src\main\res\raw\basstone.ogg
+* app\src\main\res\raw\beach.ogg
+* app\src\main\res\raw\bigclock.ogg
+* app\src\main\res\raw\birds.ogg
+* app\src\main\res\raw\campfire.ogg
+* app\src\main\res\raw\catpurr.ogg
+* app\src\main\res\raw\chair.ogg
+* app\src\main\res\raw\cicada.ogg
+* app\src\main\res\raw\city.ogg
+* app\src\main\res\raw\coldwind.ogg
+* app\src\main\res\raw\coqui.ogg
+* app\src\main\res\raw\creek.ogg
+* app\src\main\res\raw\cricket.ogg
+* app\src\main\res\raw\custom.ogg
+* app\src\main\res\raw\dishwasher.ogg
+* app\src\main\res\raw\dream.ogg
+* app\src\main\res\raw\drum.ogg
+* app\src\main\res\raw\erhu.ogg
+* app\src\main\res\raw\foghorn.ogg
+* app\src\main\res\raw\fountain.ogg
+* app\src\main\res\raw\frogs.ogg
+* app\src\main\res\raw\gregorianchant.ogg
+* app\src\main\res\raw\guitarsolo.ogg
+* app\src\main\res\raw\heartbeat.ogg
+* app\src\main\res\raw\heavyrain.ogg
+* app\src\main\res\raw\horse.ogg
+* app\src\main\res\raw\jinglebells.ogg
+* app\src\main\res\raw\largefan.ogg
+* app\src\main\res\raw\loons.ogg
+* app\src\main\res\raw\monkchant.ogg
+* app\src\main\res\raw\musicbox.ogg
+* app\src\main\res\raw\nature.ogg
+* app\src\main\res\raw\noise.ogg
+* app\src\main\res\raw\notify.mp3
+* app\src\main\res\raw\ocean.ogg
+* app\src\main\res\raw\owl.ogg
+* app\src\main\res\raw\piano.ogg
+* app\src\main\res\raw\rain.ogg
+* app\src\main\res\raw\refrigerator.ogg
+* app\src\main\res\raw\relax.ogg
+* app\src\main\res\raw\seagull.ogg
+* app\src\main\res\raw\shishiodoshi.ogg
+* app\src\main\res\raw\smallclock.ogg
+* app\src\main\res\raw\stopwatch.ogg
+* app\src\main\res\raw\storm.ogg
+* app\src\main\res\raw\thunder.ogg
+* app\src\main\res\raw\train.ogg
+* app\src\main\res\raw\vacuum.ogg
+* app\src\main\res\raw\watercrickets.ogg
+* app\src\main\res\raw\waterdripping.ogg
+* app\src\main\res\raw\watermusic.ogg
+* app\src\main\res\raw\whalesong.ogg
+* app\src\main\res\raw\white.ogg
+* app\src\main\res\raw\windchimes.ogg
+* app\src\main\res\raw\wolves.ogg
+* app\src\main\res\values-sw600dp\
+* app\src\main\res\values-sw600dp\dimens.xml
+* app\src\main\res\values-sw720dp-land\
+* app\src\main\res\values-sw720dp-land\dimens.xml
+* app\src\main\res\values-v11\
+* app\src\main\res\values-v11\styles.xml
+* app\src\main\res\values-v14\
+* app\src\main\res\values-v14\styles.xml
+* app\src\main\res\values\
+* app\src\main\res\values\dimens.xml
+* app\src\main\res\values\strings.xml
+* app\src\main\res\values\styles.xml
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* proguard-project.txt
+* settings.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/radial_color" >
+
+   
+
+    <Button
+        android:id="@+id/launch_service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="সার্ভিস চালু করুন" />
+
+    <Button
+        android:id="@+id/set_sleep_cycle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="স্লিপ সাইকেল সেট করুন" />
+
+    <Button
+        android:id="@+id/stop_service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="সার্ভিস বন্ধ করুন " />
+
+</LinearLayout>

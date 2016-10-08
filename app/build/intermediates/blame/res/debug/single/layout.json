@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_pagenumber.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\dialog_pagenumber.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\book.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\book.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\music.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\music.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bo.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\bo.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tips.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\tips.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sleepabout.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\sleepabout.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_alarm.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\set_alarm.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\second.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\second.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_group.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_soundmixer.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\activity_main_soundmixer.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\image.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\first.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\first.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\second_sleepsilent.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\second_sleepsilent.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\regionactivity.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\regionactivity.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tasbih.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\tasbih.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_main.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\alarm_main.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\entertainment.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\entertainment.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\state_info.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\state_info.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\layout\\demo_sleepsilent.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\layout\\demo_sleepsilent.xml"
+    }
+]

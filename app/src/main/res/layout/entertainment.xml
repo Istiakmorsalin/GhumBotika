@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/radial_color">
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:textSize="30dp"
+        android:text="নিচের অপশন গুলো থেকে  যে কোন একটি   প্রেস করুন  :"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       
+        android:text="বই পড়া" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button1"
+        android:layout_below="@+id/button1"
+     
+        android:text="ছবি দেখা" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/button2"
+        android:layout_below="@+id/button2"
+        
+        android:text="গান শোনা" />
+
+     <Button
+         android:id="@+id/button4"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_alignRight="@+id/button2"
+         android:layout_below="@+id/button2"
+        
+         android:text="দুয়া পড়া " />
+     <Button
+         android:id="@+id/button_service"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_alignRight="@+id/button2"
+         android:layout_below="@+id/button2"
+         
+         android:text="স্লিপ হেল্পার " />
+
+     <CheckBox
+         android:id="@+id/checkBox1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="ব্যাকগ্রাউন্ড মিউজিক "
+         android:textColor="#ffffff" />
+     
+</LinearLayout>

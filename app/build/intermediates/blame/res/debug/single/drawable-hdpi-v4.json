@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sleep.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable-hdpi\\sleep.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tips.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable-hdpi\\tips.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\relax.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable-hdpi\\relax.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alarm.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable-hdpi\\alarm.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\radial_color.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable-hdpi\\radial_color.xml"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\entertainment.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable-hdpi\\entertainment.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\radial_background.xml",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable-hdpi\\radial_background.xml"
+    }
+]

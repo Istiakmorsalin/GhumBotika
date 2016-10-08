@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from I:\GhumBotika\app\src\main\AndroidManifest.xml
+		INJECTED from I:\GhumBotika\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from I:\GhumBotika\app\src\main\AndroidManifest.xml
+		INJECTED from I:\GhumBotika\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from I:\GhumBotika\app\src\main\AndroidManifest.xml
+		INJECTED from I:\GhumBotika\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from I:\GhumBotika\app\src\main\AndroidManifest.xml
+		INJECTED from I:\GhumBotika\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from I:\GhumBotika\app\src\main\AndroidManifest.xml
+		INJECTED from I:\GhumBotika\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:14:5-69
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:14:22-66
+uses-permission#android.permission.PROCESS_INCOMING_CALLS
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:15:22-78
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:16:6-99
+	android:required
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:16:73-96
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:16:20-72
+application
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:20:5-63:19
+	android:label
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:22:9-45
+	android:theme
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.final_project.MainActivity
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:26:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.example.final_project.Sleep_about
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:34:9-49
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:34:19-46
+activity#com.example.final_project.Tips
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:35:9-42
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:35:19-39
+activity#com.example.final_project.Entertainment
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:36:9-51
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:36:19-48
+activity#finalproject.entertainment.Musiclisten
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:37:9-75
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:37:19-72
+activity#finalproject.entertainment.Readbook
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:38:9-72
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:38:19-69
+activity#finalproject.entertainment.Second
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:39:9-70
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:39:19-67
+activity#finalproject.entertainment.viewimage
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:40:9-73
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:40:19-70
+activity#finalproject.touchgesture.Touch_flipp
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:41:9-74
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:41:19-71
+activity#finalproject.touchgesture.dualist
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:42:9-70
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:42:19-67
+activity#finalproject.touchgesture.regional
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:43:9-71
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:43:19-68
+activity#finalproject.touchgesture.Tasbih
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:44:10-70
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:44:20-67
+activity#finalproject.touchgesture.ShakeListenerTestActivity
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:45:11-90
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:45:21-87
+activity#ghumbotika.sleepsilent.AlarmCreateActivity
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:46:9-79
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:46:19-76
+activity#ghumbotika.sleepsilent.InputActivity
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:47:9-73
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:47:19-70
+activity#finalproject.soundmixer.mixer_mainactivity
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:48:9-79
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:48:19-76
+service#finalproject.entertainment.MusicService
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:50:9-75
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:50:18-72
+receiver#ghumbotika.sleepsilent.AlarmNotificationReceiver
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:52:9-53:20
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:52:19-82
+receiver#ghumbotika.sleepsilent.AlarmLoggerReceiver
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:54:9-55:20
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:54:19-76
+receiver#ghumbotika.sleepsilent.NotificationReceiver
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:56:9-57:20
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:56:19-77
+receiver#ghumbotika.sleepsilent.CallerException
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:58:9-62:20
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:58:19-72
+intent-filter#android.intent.action.PHONE_STATE
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:59:13-61:29
+action#android.intent.action.PHONE_STATE
+ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:60:17-76
+	android:name
+		ADDED from I:\GhumBotika\app\src\main\AndroidManifest.xml:60:25-73

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_arrow.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable\\left_arrow.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back02.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable\\back02.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tips.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable\\tips.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\music.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable\\music.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom_out.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable\\zoom_out.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\folder.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable\\folder.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doc.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable\\doc.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back01.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable\\back01.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zoom_in.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable\\zoom_in.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_arrow.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable\\right_arrow.png"
+    },
+    {
+        "merged": "I:\\GhumBotika\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pdf.png",
+        "source": "I:\\GhumBotika\\app\\src\\main\\res\\drawable\\pdf.png"
+    }
+]

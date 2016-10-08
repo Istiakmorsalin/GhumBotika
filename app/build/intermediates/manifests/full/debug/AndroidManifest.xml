@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.final_project"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.PROCESS_INCOMING_CALLS" />
+
+    <uses-feature
+        android:name="android.hardware.sensor.accelerometer"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.final_project.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.final_project.Sleep_about" />
+        <activity android:name="com.example.final_project.Tips" />
+        <activity android:name="com.example.final_project.Entertainment" />
+        <activity android:name="finalproject.entertainment.Musiclisten" />
+        <activity android:name="finalproject.entertainment.Readbook" />
+        <activity android:name="finalproject.entertainment.Second" />
+        <activity android:name="finalproject.entertainment.viewimage" />
+        <activity android:name="finalproject.touchgesture.Touch_flipp" />
+        <activity android:name="finalproject.touchgesture.dualist" />
+        <activity android:name="finalproject.touchgesture.regional" />
+        <activity android:name="finalproject.touchgesture.Tasbih" />
+        <activity android:name="finalproject.touchgesture.ShakeListenerTestActivity" />
+        <activity android:name="ghumbotika.sleepsilent.AlarmCreateActivity" />
+        <activity android:name="ghumbotika.sleepsilent.InputActivity" />
+        <activity android:name="finalproject.soundmixer.mixer_mainactivity" />
+
+        <service android:name="finalproject.entertainment.MusicService" />
+
+        <receiver android:name="ghumbotika.sleepsilent.AlarmNotificationReceiver" >
+        </receiver>
+        <receiver android:name="ghumbotika.sleepsilent.AlarmLoggerReceiver" >
+        </receiver>
+        <receiver android:name="ghumbotika.sleepsilent.NotificationReceiver" >
+        </receiver>
+        <receiver android:name="ghumbotika.sleepsilent.CallerException" >
+            <intent-filter>
+                <action android:name="android.intent.action.PHONE_STATE" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>
